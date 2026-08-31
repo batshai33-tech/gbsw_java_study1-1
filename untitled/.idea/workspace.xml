@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d65cca25-6b08-47ec-87cf-007694fd63f3" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../ex02/src/aa/ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/ex03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/src/ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/src/ex02/BoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/src/ex02/CharUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/src/ex02/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/src/ex02_3/AutoCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/src/ex02_3/CastingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/src/ex02_3/byteInt_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/src/ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex04/src/fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ex02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex02/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3IQf9gLwvve9X6hIYcWV6doJ0JR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/gimbeomgyu/work/java_work1-1/untitled/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <setting name="addClasspath" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d65cca25-6b08-47ec-87cf-007694fd63f3" name="변경" comment="" />
+      <created>1787701563523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787701563523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,15 +1,32 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-void main() {
-  //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-  // to see how IntelliJ IDEA suggests fixing it.
-  IO.println(String.format("Hello and welcome!11111111"));
-  IO.println(String.format("Hello and welcome!22222222"));
-  IO.println(String.format("Hello and welcome!33333333"));
+import aa.ex02;
 
-  for (int i = 1; i <= 5; i++) {
-    //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-    // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-    IO.println("i = " + i);
+void main() {
+  ex02 ex02 = new ex02(); //생성자 예약어
+  ex02.doA();
+  ex02.doB();
+  int a = 3;
+
+  if ( a > 3 ) {
+    System.out.println(" a 는 3 보다 큽니다!");
+  } else if ( a == 3 ) {
+    System.out.println(" a 는 3 과 같습니다");
+  } else {
+    System.out.println( "a 는 3보다 작습니다...");
   }
+
+  int manu = 3;
+  switch (manu) {
+    case 1:System.out.println( "시스탬 시작");
+    break;
+    case 2:System.out.println( "시스탬 지속" );
+    break;
+      default:System.out.println( "시스탬 종료.." );
+  }
+
+  for (int i = 0; i < 5 ; i++) {
+    System.out.println("안녕하시오!");
+  }
+  System.out.println("그만 인사해!!");
+
 }
+
