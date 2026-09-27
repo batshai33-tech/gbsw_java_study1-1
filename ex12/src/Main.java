@@ -14,6 +14,8 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         int carCount = 0;
+        int carTotal = 0;
+        int redCount = 0;
         while (true) {
             System.out.println("""
                 1. 차등록
@@ -40,17 +42,23 @@ public class Main {
                 System.out.println("등록완료");
 
                 carCount++;
+                carTotal += speed;
+                if (color.equals("red") || color.equals("빨강색") || color.equals("빨간색") || color.equals("rad")) {
+                    redCount ++;
+                }
 
             } else if (num == 2) {
                 System.out.println("차 목록");
                 for (int i = 0; i < carCount; i++) {
                     System.out.println(i + 1 + "번째 차");
                     System.out.println(cars[i].toString());
-
                 }
             } else if (num == 3) {
-                System.out.println(3);
+                System.out.println("합계 속도 = " + carTotal);
+                double carP = (double) carTotal / carCount;
+                System.out.println("평균 속도 = " + carP);
             } else if (num == 4) {
+                System.out.println("빨간색차의 갯수 = " + redCount);
                 System.out.println(4);
             } else if (num == 5) {
                 System.out.println(5);
